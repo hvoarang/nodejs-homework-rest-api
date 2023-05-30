@@ -1,0 +1,1 @@
+DB_HOST = 'mongodb+srv://hvo:404951@cluster0.djhohbh.mongodb.net/book_reader?retryWrites=true&w=majority'
